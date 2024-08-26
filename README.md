@@ -31,10 +31,3 @@ The more details of the proposed framework are available in the following Journa
 
 https://ieeexplore.ieee.org/document/9076634
 
-
-#### Written by-  <br>
-Md. Kamrul Hasan <br> 
-Erasmus Scholar on Medical Imaging and Application (MAIA) [2017-2019] [http://maiamaster.udg.edu/] <br> 
-Assistant Professor <br>
-Department of EEE, KUET, Khulna-9203, Bangladesh <br>
-For more details write me at kamruleeekuet@gmail.com <br>
