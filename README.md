@@ -27,7 +27,3 @@ All the results reported in the literature were produced using the following ver
 - scipy                1.4.1 <br>
 
 
-The more details of the proposed framework are available in the following Journal- <br>
-
-https://ieeexplore.ieee.org/document/9076634
-
