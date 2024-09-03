@@ -3,7 +3,7 @@ The repository tree of this project is given below: <br>
 
 ![DirectoryTree](https://user-images.githubusercontent.com/32570071/74612146-ef189d00-512c-11ea-96e7-ecc9baac6c89.png)
 
-The graphical abstract of this research is as follows:
+The graphical abstract of this research is as   follows:
 
 ![GA](https://user-images.githubusercontent.com/32570071/81200287-93500880-8fe5-11ea-8669-f3985d445923.png)
 
